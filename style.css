@@ -1,0 +1,33 @@
+/* body {
+    display: flex;
+}
+img {
+    max-width: 10%;
+    height: auto;
+}
+
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    height: 0px;
+    width: 50%;
+    padding: 0px 100%;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li a {
+    margin: 20px;
+
+}
+ */
