@@ -74,10 +74,6 @@ hr {
     margin-top: 15px;
 }
 
-
-
-
-
 .section-content {
     background-color: royalblue;
     padding: 10px;
@@ -170,18 +166,18 @@ footer {
         max-width: 80%;
         margin: 0 auto;
     }
-.intro-container {
+    .intro-container {
        display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.profile-image {
+    .profile-image {
     max-width: 500px;
     max-height: 500px;
     border-radius: 100%;
     margin-top: 2%;
 }
-.intro-section {
+    .intro-section {
     width: 500px;
 }
 
@@ -199,7 +195,7 @@ footer {
         color: black;
     }
 
-.about-me-body .about-me-content p {
+    .about-me-body .about-me-content p {
     text-align: center;
 }
 
