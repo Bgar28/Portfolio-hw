@@ -7,7 +7,7 @@
 
 
 body {
-    background-image: url(./assets/images/port-background.jpg);
+    background-image: url(./images/port-background.jpg);
     font-family: 'Montserrat', sans-serif;
     padding: 1rem;
     margin: 0;
@@ -97,18 +97,18 @@ hr {
 .profile-image {
     width: 100%;
     margin-top: 20px;
-    background-image: url("./assets/images/port-profilepic.jpg");
+    background-image: url("./images/port-profilepic.jpg");
 }
 
 .about-me-image {
-    background-image: url("./assets/images/port-picme.jpg");
+    background-image: url("./images/port-picme.jpg");
     background-size: cover;
     height: 400px;
 }
 
 .about-me-body {
     margin-top: 1rem;
-    background-image: url("./assets/images/port-projects.jpg");
+    background-image: url("./images/port-projects.jpg");
     height: 400px;
     font-size: 15px;
     font-weight: bold;
