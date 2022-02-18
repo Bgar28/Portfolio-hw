@@ -5,7 +5,7 @@ https://bgar28.github.io/Portfolio-hw/
 
 
 ## Screenshot
-![Screenshot of portfolio]()
+![Screenshot of portfolio](https://github.com/Bgar28/Portfolio-hw/blob/main/images/screenshot-portfolio.png)
 
 
 
