@@ -1,11 +1,11 @@
 # Portfolio 
 
-This assignment had us building a portfolio from scratch in order to obtain employment in my desired field and to showcase my coding abilities. <br>
+This is my professional portfolio to showcase some of the projects and assignments I have done during the course of my bootcamp. <br>
 https://bgar28.github.io/Portfolio-hw/
 
 
 ## Screenshot
-![Screenshot of portfolio](https://github.com/Bgar28/Portfolio-hw/blob/main/images/screenshot-portfolio-live.png)
+![Screenshot of portfolio]()
 
 
 
