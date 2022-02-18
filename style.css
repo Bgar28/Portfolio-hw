@@ -13,19 +13,19 @@ body {
     margin: 0;
 }
 
-nav ul{
+nav ul {
     display:flex;
-    background-color: #4CC6B0;
 
 }
 
-nav ul li a{
+nav ul li a {
     margin: 15px;
     font-size: 20px;
     font-weight: 900;
     border: 5px solid black;
     border-radius: 20px;
-    padding: 3px;
+    padding: 10px;
+    background-color: #4CC6B0;
 }
 
 h1, h2, h3 {
@@ -88,7 +88,7 @@ hr {
 }
 
 
-.image {
+.avi {
     background-repeat: no-repeat;
     height: 721px;
     background-size: cover;
@@ -150,6 +150,7 @@ hr {
     width: 100%;
 }
 
+
 footer {
     display: flex;
     flex-direction: column;
@@ -192,12 +193,12 @@ footer {
         display: block;
     }
     nav ul li a {
-        color: black;
+        color: white;
     }
 
     .about-me-body .about-me-content p {
     text-align: center;
-}
+    }
 
     .about-me-image {
             border-radius: 50px 50px;
@@ -214,8 +215,11 @@ footer {
         .project-items .project-example .project-image {
             width: 570px;
         }
+        .project {
+            height: 62%;
+        }
         .project-example:hover .project-image{
-            opacity: 0.9;
+            opacity: 0.6;
         }  
         
     }
